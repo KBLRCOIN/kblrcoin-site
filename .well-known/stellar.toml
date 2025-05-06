@@ -1,0 +1,10 @@
+VERSION = "2.0.0"
+
+[[CURRENCIES]]
+code = "KBLR"
+issuer = "GADMJUSPYI2GQXWTMX6KRDHVTMLPUWNA3ZQMGB3UCVMDT27ZIJZBEMY5"
+display_decimals = 2
+name = "KBLRCOIN"
+desc = "A digital currency that focuses on business development and promises a promising future."
+conditions = "Available for trading via wallets that support the Stellar network."
+image = "https://l.top4top.io/p_3394k2q4v0.jpeg"
